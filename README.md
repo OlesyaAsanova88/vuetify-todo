@@ -17,3 +17,7 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+<h1>Заметки</h1>
+<p> Использовались: HTML, CSS , VUE.JS, Vuetify</p>
+
